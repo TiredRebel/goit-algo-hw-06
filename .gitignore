@@ -1,0 +1,13 @@
+# Ігноруємо інші навчальні репозиторії у корені
+GoITPythonCore/
+goit-algo-fp/
+goit-algo-hw-02/
+goit-algo-hw-03/
+goit-algo-hw-04/
+goit-algo-hw-05/
+goit-pycore-hw-03/
+goit-pycore-hw-04/
+goit-pycore-hw-05/
+goit-pycore-hw-06/
+goit-pycore-hw-07/
+personal-assistant/

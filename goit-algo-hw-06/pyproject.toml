@@ -1,0 +1,14 @@
+[project]
+name = "goit-algo-hw-06"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.2"
+dependencies = [
+    "networkx>=3.2,<4",
+    "matplotlib>=3.8,<4",
+]
+
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
