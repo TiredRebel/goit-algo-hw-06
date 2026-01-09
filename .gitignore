@@ -11,3 +11,7 @@ goit-pycore-hw-05/
 goit-pycore-hw-06/
 goit-pycore-hw-07/
 personal-assistant/
+
+# Python build artifacts
+*.egg-info/
+__pycache__/task1.cpython-313.pyc
